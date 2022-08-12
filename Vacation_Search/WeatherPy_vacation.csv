@@ -1,0 +1,103 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+4,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+30,Grand Gaube,MU,68.38,broken clouds,-20.0064,57.6608,Veranda Paul et Virginie Hotel & Spa
+56,Mahébourg,MU,68.25,light rain,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+65,Carballo,ES,69.22,scattered clouds,43.213,-8.691,Pazo do Souto
+77,Ponta do Sol,PT,70.72,broken clouds,32.6667,-17.1,Hotel do Campo
+106,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+117,San Cristobal,VE,71.31,overcast clouds,7.7669,-72.225,Pirineos
+119,Den Helder,NL,71.02,clear sky,52.9599,4.7593,Hotel Den Helder
+124,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+163,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+191,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+197,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+235,Kaduqli,SD,70.47,light rain,11.0167,29.7167,Nussyba
+271,Mahébourg,MU,68.25,light rain,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+279,Fairbanks,US,70.09,scattered clouds,64.8378,-147.7164,Westmark Fairbanks Hotel & Conference Center
+288,Den Helder,NL,71.02,clear sky,52.9599,4.7593,Hotel Den Helder
+294,Torit,SS,69.19,light rain,4.4133,32.5678,Diplomat Guest House
+297,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+299,Nouadhibou,MR,71.6,clear sky,20.931,-17.0347,El Medina
+318,Quatre Cocos,MU,68.09,light rain,-20.2078,57.7625,Sunrise Attitude Hotel
+334,Baft,IR,69.1,clear sky,29.234,56.6057,Paeez Hotel & restaurant
+369,Nantucket,US,71.74,overcast clouds,41.2835,-70.0995,Jared Coffin House
+389,Kisangani,CD,71.55,overcast clouds,0.5167,25.2,Grand Ramela Hotel
+422,Kaduqli,SD,70.47,light rain,11.0167,29.7167,Nussyba
+433,Ponta do Sol,PT,70.72,broken clouds,32.6667,-17.1,Hotel do Campo
+439,Puerto Baquerizo Moreno,EC,69.4,overcast clouds,-0.9,-89.6,Hotel los Algarrobos
+467,Gombe,NG,69.48,overcast clouds,10.2897,11.1673,Custodian Hotel Gombe
+491,Sechura,PE,69.33,broken clouds,-5.5569,-80.8222,Hospedaje Costa Bella
+543,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+548,Khanbari,NP,70.68,scattered clouds,27.3747,87.2039,Sainik Hotel And Lodge
+555,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+558,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+567,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+573,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+576,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+588,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+604,Fort Nelson,CA,69.49,broken clouds,58.8053,-122.7002,The Fort Nelson Hotel
+605,Praia da Vitória,PT,71.76,overcast clouds,38.7333,-27.0667,Hotel Branco I
+637,Aklavik,CA,68.88,few clouds,68.2191,-135.0107,Aklavik Inn
+682,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+686,Aklavik,CA,68.88,few clouds,68.2191,-135.0107,Aklavik Inn
+696,Bonaventure,CA,69.21,overcast clouds,48.0457,-65.4926,Riôtel Bonaventure (N° établissement : 1271)
+712,Arona,ES,70.7,few clouds,28.0996,-16.681,Paradise Court
+734,Mahébourg,MU,68.25,light rain,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+748,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+749,Richards Bay,ZA,70.18,clear sky,-28.783,32.0377,BON Hotel Waterfront Richards Bay
+765,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+766,Inhambane,MZ,68.11,clear sky,-23.865,35.3833,Oceano
+778,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+796,Goderich,CA,68.92,clear sky,43.7501,-81.7165,Harmony Inn
+798,Los Llanos de Aridane,ES,69.55,clear sky,28.6585,-17.9182,Valle Aridane
+805,Nārsingi,IN,71.92,broken clouds,18.0333,78.4333,MALLIKARJUNA HOTEL &KIRANAM
+813,Goderich,CA,68.92,clear sky,43.7501,-81.7165,Harmony Inn
+834,Grand Gaube,MU,68.38,broken clouds,-20.0064,57.6608,Veranda Paul et Virginie Hotel & Spa
+853,Aklavik,CA,68.88,few clouds,68.2191,-135.0107,Aklavik Inn
+873,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+874,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+961,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+974,Wukari,NG,70.88,overcast clouds,7.85,9.7833,Elimtop
+1012,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+1064,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+1071,Diapaga,BF,70.45,moderate rain,12.0708,1.7889,Hôtel GACILIE
+1098,Escanaba,US,71.94,clear sky,45.7453,-87.0646,Sunset Lodge
+1196,Cap Malheureux,MU,68.47,broken clouds,-19.9842,57.6142,Pereybere Hotel & Spa
+1205,Hashtrūd,IR,68.41,clear sky,37.4779,47.0508,Mahan Hotel
+1227,Ponta do Sol,PT,70.72,broken clouds,32.6667,-17.1,Hotel do Campo
+1246,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1252,Linxia Chengguanzhen,CN,69.3,overcast clouds,35.6003,103.2064,GreenTree Inn Linxia Autonomous Prefecture Linxia Oxford River Avenue Express Hotel
+1254,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+1266,College,US,70.07,scattered clouds,64.8569,-147.8028,Pike's Waterfront Lodge
+1287,Atherton,GB,70.9,clear sky,53.5237,-2.4935,The Mercury Motel
+1299,Antsohihy,MG,69.03,few clouds,-14.8796,47.9875,Hotel de Ville
+1310,Vao,NC,68.16,few clouds,-22.6667,167.4833,Hotel Kou-Bugny
+1327,Diapaga,BF,70.45,moderate rain,12.0708,1.7889,Hôtel GACILIE
+1356,Arraial do Cabo,BR,68.29,scattered clouds,-22.9661,-42.0278,Pousada Porto Praia
+1395,Osmanabad,IN,70.3,broken clouds,18.1667,76.05,Hotel Megh Malhar
+1399,Ponta do Sol,PT,70.72,broken clouds,32.6667,-17.1,Hotel do Campo
+1405,Fort Nelson,CA,69.49,broken clouds,58.8053,-122.7002,The Fort Nelson Hotel
+1433,Esqueda,MX,70.65,scattered clouds,30.7167,-109.5833,Hotel Esqueda
+1444,Bambous Virieux,MU,68.22,light rain,-20.3428,57.7575,Casa Tia Villa
+1454,Cham,CH,68.34,broken clouds,47.1821,8.4636,City Garden Hotel
+1469,Nantucket,US,71.74,overcast clouds,41.2835,-70.0995,Jared Coffin House
+1522,Vao,NC,68.16,few clouds,-22.6667,167.4833,Hotel Kou-Bugny
+1524,Mahébourg,MU,68.25,light rain,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+1541,Mahébourg,MU,68.25,light rain,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+1544,Mahébourg,MU,68.25,light rain,-20.4081,57.7,Shandrani Beachcomber Resort & Spa
+1568,Kibala,TD,72.0,overcast clouds,9.1104,18.3463,Prasant Hotels
+1586,Ponta do Sol,PT,70.72,broken clouds,32.6667,-17.1,Hotel do Campo
+1601,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1621,Salisbury,GB,71.02,clear sky,51.0693,-1.7957,Mercure Salisbury White Hart Hotel
+1636,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1648,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1673,Alpena,US,71.92,clear sky,45.0617,-83.4327,Days Inn by Wyndham Alpena
+1688,Gravenhurst,CA,68.56,clear sky,44.9168,-79.3663,Residence Inn by Marriott Gravenhurst Muskoka Wharf
+1721,Los Llanos de Aridane,ES,69.55,clear sky,28.6585,-17.9182,Valle Aridane
+1722,Jāmai,IN,70.99,overcast clouds,22.2,78.5833,APNA MP ONLINE
+1726,Los Llanos de Aridane,ES,69.55,clear sky,28.6585,-17.9182,Valle Aridane
+1747,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1749,Puerto Ayora,EC,68.56,overcast clouds,-0.7393,-90.3518,Finch Bay Galapagos Hotel
+1752,Tonj,SS,69.24,overcast clouds,7.2737,28.6822,Lakan Hotel
+1771,Margate,GB,68.7,clear sky,51.3813,1.3862,Premier Inn Margate hotel
+1800,Shahreza,IR,71.92,clear sky,32.0339,51.8794,خوابگاه
